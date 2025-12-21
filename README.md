@@ -1,6 +1,6 @@
-# task_ease
+TaskEase - ToDo Mobile App
 
-A new Flutter project.
+TaskEase is a Flutter-based mobile application designed to help users efficiently manage their daily tasks. The app allows users to add, edit, search, delete and organize tasks in a simple and intuitive interface. Features include a personalized dashboard, profile section, task categorization, search functionality, and task management options such as marking tasks complete, editing, or deleting tasks. Built with Flutter and Provider for state management, TaskEase demonstrates modern mobile app development practices with a clean UI/UX.
 
 ## Getting Started
 
